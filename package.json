@@ -28,6 +28,7 @@
     "axios": "^1.7.7",
     "cors": "^2.8.5",
     "express-rate-limit": "^7.4.1",
+    "multicoin-address-validator": "^0.5.22",
     "mysql2": "^3.11.3",
     "pg": "^8.13.0",
     "reflect-metadata": "^0.2.0",
