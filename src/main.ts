@@ -13,7 +13,7 @@ async function bootstrap() {
 
   // Включаем CORS
   app.enableCors({
-    origin: 'http://localhost:3000',
+    origin: 'https://droidexchange.io',
     methods: 'GET,POST',
     credentials: true,
   });
